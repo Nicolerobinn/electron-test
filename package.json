@@ -1,0 +1,14 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/Nicolerobinn/electron-test.git",
+  "author": "chenxiaotong <cweb130@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
